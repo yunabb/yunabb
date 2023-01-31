@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @yunabb
-- 👀 I’m interested in ...Cat
 - 🌱 I’m currently learning ...Java
 
 
